@@ -1,2 +1,3 @@
 # unity_dict
-Generates the keyword list of Unity for Vim
+
+This script generates the keyword list of Unity for Vim.
