@@ -1181,7 +1181,7 @@ Euler
 Evaluate
 Event
 EventDefined
-EventFunction&lt;T0&gt;
+EventFunction<T0>
 EventHandle
 EventModifiers
 EventSystem
